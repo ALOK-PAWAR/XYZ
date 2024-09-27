@@ -14,7 +14,7 @@ body {
 }
 
 .button-container {
-    margin-bottom: 20px;
+    margin: 20px 0;
 }
 
 button {
@@ -26,4 +26,6 @@ button {
 
 .pdf-container {
     border: 1px solid #ccc;
+    margin-top: 20px;
 }
+
